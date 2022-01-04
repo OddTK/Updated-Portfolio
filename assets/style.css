@@ -11,21 +11,20 @@
     z-index: 1; /* Stay on top */
     top: 0; /* Stay at the top */
     left: 0;
-    background-color: #111; /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
   }
 
   /* The navigation menu links */
   .sidenav a {
-    border-bottom: 2px solid var(--grey);
-    padding: 6px 8px 6px 16px;
+    padding: 6px 16px 6px 16px;
     text-decoration: none;
     font-size: 25px;
     text-align: center;
     align-content: center;
     color: var(--grey);
     display: block;
+    border-bottom: 1px solid rgb(218, 215, 215);
   }
 
   /* When you mouse over the navigation links, change their color */
@@ -34,7 +33,7 @@
   }
 
   .navimg {
-    width: 150px;
+    width: 160px;
     margin-bottom: 50%;
   }
 
@@ -46,6 +45,16 @@
 
   .content {
     height: 100vh;
+    padding: 10px 60px;
+  }
+
+  .icons {
+    display: flex;
+    margin-top: 80%;
+  }
+
+  .img {
+    height: 255px;
   }
 
   /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
