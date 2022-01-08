@@ -9,7 +9,7 @@
 This is an updated portfolio created with skills gained throughout Boot camp class. Previous one can be seen under repos.
 
 ### Screenshot
-![uPortfolio](https://user-images.githubusercontent.com/90938940/148656921-3984bf44-b86d-43f3-b30e-ed8241f2edb7.png)
+![up](https://user-images.githubusercontent.com/90938940/148657091-91a3e2a4-fb9e-460c-bae1-010bafbcef49.png)
 
 ### Link
 https://oddtk.github.io/Updated-Portfolio/
