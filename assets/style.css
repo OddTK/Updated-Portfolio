@@ -3,6 +3,10 @@
   --black: #111;
 }
 
+h1.header {
+  font-size: 150px;
+  font-family: 'Bebas Neue', cursive;
+}
 /* The sidebar menu */
 .sidenav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
@@ -55,6 +59,12 @@
 
   .img {
     height: 255px;
+  }
+
+  .mainImg {
+    height: 80%;
+    width: 25%;
+    float: right;
   }
 
   /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
