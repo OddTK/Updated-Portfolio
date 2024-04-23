@@ -3,6 +3,11 @@
   --black: #111;
 }
 
+.about-p {
+  margin-top: 2%;
+  
+}
+
 h1.header {
   font-size: 150px;
   font-family: 'Bebas Neue', cursive;
